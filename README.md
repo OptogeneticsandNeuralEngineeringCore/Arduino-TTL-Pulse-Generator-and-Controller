@@ -16,6 +16,7 @@ An inexpensive Arduino controlled, four channel, simultaneous TTL pulse generato
 | Arduino_Simple_Closed_Loop.ino | Arduino file for TTL Control (TTL's triggered on input (button or IR Breakbeam) |
 | Screenshots of Downloading and Programing the Arduino.pdf | Help in downloading and Programing with Arduino |
 | --- | --- |
+| --- | --- |
 | Arduino Simple 8 Channel MEGA TTL Pulse Generator.pdf | If more inputs/outputs are required, try the 8 channel system |
 | Arduino simple 8 channel ttl top.ipt | Design file for enclosure top |
 | Arduino simple 8 channel ttl top.stl | Printable file for enclosure top |
