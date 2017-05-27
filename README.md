@@ -5,23 +5,25 @@ An inexpensive Arduino controlled, four channel, simultaneous TTL pulse generato
 
 ### Files
 
-| File | Description |
-| --- | --- |
-| Arduino Simple 4 Channel TTL Pulse Generator.pdf | The Main File for design and fabrication |
-| Arduino simple 4 channel ttl top.ipt | Design file for enclosure top |
-| Arduino simple 4 channel ttl top.stl | Printable file for enclosure top |
-| Arduino simple 4 channel ttl bottom.ipt | Design file for enclosure bottom |
-| Arduino simple 4 channel ttl bottom.stl | Printable file for enclosure bottom |
-| Arduino_Simple_TTL.ino | Arduino file for TTL Generation |
-| Arduino_Simple_Closed_Loop.ino | Arduino file for TTL Control (TTL's triggered on input (button or IR Breakbeam) |
-| Screenshots of Downloading and Programing the Arduino.pdf | Help in downloading and Programing with Arduino |
-| --- | --- |
-| --- | --- |
-| Arduino Simple 8 Channel MEGA TTL Pulse Generator.pdf | If more inputs/outputs are required, try the 8 channel system |
-| Arduino simple 8 channel ttl top.ipt | Design file for enclosure top |
-| Arduino simple 8 channel ttl top.stl | Printable file for enclosure top |
-| Arduino simple 8 channel ttl bottom.ipt | Design file for enclosure bottom |
-| Arduino simple 8 channel ttl bottom.stl | Printable file for enclosure bottom |
+| File | Description | File Type  |
+| --- | --- | --- |
+| Arduino Simple 4 Channel TTL Pulse Generator.pdf | The Main File for design and fabrication | pdf |
+| Arduino simple 4 channel ttl top.ipt | Design file for enclosure top | ipt |
+| Arduino simple 4 channel ttl top.stl | Printable file for enclosure top | stl |
+| Arduino simple 4 channel ttl bottom.ipt | Design file for enclosure bottom | ipt |
+| Arduino simple 4 channel ttl bottom.stl | Printable file for enclosure bottom | stl |
+| Arduino_Simple_TTL.ino | Arduino file for TTL Generation | ino |
+| Arduino_Simple_Closed_Loop.ino | Arduino file for TTL Control (TTL's triggered on input (button or IR Breakbeam) |ino |
+| Screenshots of Downloading and Programing the Arduino.ppt | Help in downloading and Programing with Arduino | ppt |
+| --- | --- | --- |
+| --- | --- | --- |
+| Arduino Simple 8 Channel MEGA TTL Pulse Generator.pdf | If more inputs/outputs are required, try the 8 channel system | .pdf |
+| Arduino simple 8 channel ttl top.ipt | Design file for enclosure top | ipt |
+| Arduino simple 8 channel ttl top.stl | Printable file for enclosure top | stl |
+| Arduino simple 8 channel ttl bottom.ipt | Design file for enclosure bottom | ipt |
+| Arduino simple 8 channel ttl bottom.stl | Printable file for enclosure bottom |stl |
+| Arduino_Simple_Closed_Loop_Mega.ino | Arduino code for 8 channel system | ino |
+
 
 
 ### Introduction
