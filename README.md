@@ -1,6 +1,6 @@
 # Arduino-TTL-Pulse-Generator-and-Controller
 
-![My image](https://github.com/OptogeneticsandNeuralEngineeringCore/Arduino-TTL-Pulse-Generator-and-Controller/blob/master/Capture.JPG)
+(https://github.com/OptogeneticsandNeuralEngineeringCore/Arduino-TTL-Pulse-Generator-and-Controller/blob/master/Capture.JPG)
 
 Design and Control your experiments with a TTL Generator and Controller
 
