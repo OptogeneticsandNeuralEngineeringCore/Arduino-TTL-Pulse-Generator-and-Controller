@@ -1,4 +1,7 @@
 # Arduino-TTL-Pulse-Generator-and-Controller
+
+![My image](https://github.com/OptogeneticsandNeuralEngineeringCore/Arduino-TTL-Pulse-Generator-and-Controller/blob/master/Capture.JPG)
+
 Design and Control your experiments with a TTL Generator and Controller
 
 An inexpensive Arduino controlled, four channel, simultaneous TTL pulse generator and controller with BNC connectors and optional 3D printed housing is detailed. TTL pulse modulation requires programing in the Arduino language, but 2 examples are given such **that no prior programing experience** is necessary. The first example shows how to set up four independent TTL outputs. The second example expands on this and allows for input into the generator for a closed loop system, controlled by TTL.
