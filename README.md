@@ -10,7 +10,7 @@ An inexpensive Arduino controlled, four channel, simultaneous TTL pulse generato
 
 | File | Description | File Type  |
 | --- | --- | --- |
-| Arduino Simple 4 Channel TTL Pulse Generator.pdf | The Main File for design and fabrication | pdf |
+| [Arduino Simple 4 Channel TTL Pulse Generator.pdf](https://github.com/OptogeneticsandNeuralEngineeringCore/Arduino-TTL-Pulse-Generator-and-Controller/blob/master/Arduino%20Simple%204%20Channel%20TTL%20Pulse%20Generator.pdf) | The Main File for design and fabrication | pdf |
 | Arduino simple 4 channel ttl top.ipt | Design file for enclosure top | ipt |
 | Arduino simple 4 channel ttl top.stl | Printable file for enclosure top | stl |
 | Arduino simple 4 channel ttl bottom.ipt | Design file for enclosure bottom | ipt |
