@@ -1,1 +1,8 @@
 theme: jekyll-theme-slate
+
+gems:
+  - jekyll-sitemap
+
+
+title: [Optogenetics and Neural Engineering Core]
+description: [A short description of your site's purpose]
